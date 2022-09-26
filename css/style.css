@@ -103,7 +103,7 @@ html, body, main {
 
 .header._active {
   position: fixed;
-  background-color: var(--light-black);
+  background-color: rgba(19, 18, 18, 0.5019607843);
 }
 
 .header .container {
